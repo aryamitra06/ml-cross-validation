@@ -1,3 +1,4 @@
 - Cross Validation (Naive Method)
 - Cross Val Score (cross_val_score function)
 - Cross Validate (cross_validate function)
+- Grid Search
